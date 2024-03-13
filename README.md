@@ -3,7 +3,7 @@
 [![Oz.png](https://i.postimg.cc/13C4DpQr/Oz.png)](https://postimg.cc/HrMpg8jr)
 
   
-[![c8860789c07e038933334172daecc003-1.jpg](https://i.postimg.cc/ZKtkQXw9/c8860789c07e038933334172daecc003-1.jpg)](https://postimg.cc/fkKgtqnZ)
+[![Fire.jpg](https://i.postimg.cc/4NLv8HvB/Fire.jpg)](https://postimg.cc/jLfJ25F7)
 
 
 <h3 align="center">  </h3>
