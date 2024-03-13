@@ -1,8 +1,6 @@
 <div align="center"> 
-
-[![1710357634392.jpg](https://i.postimg.cc/FHHhVXfc/1710357634392.jpg)](https://postimg.cc/F7wthqVs)
-
-
+[![1710357873059.png](https://i.postimg.cc/ryfnt6L7/1710357873059.png)](https://postimg.cc/gr6qfTjK)
+  
 [![c8860789c07e038933334172daecc003.jpg](https://i.postimg.cc/SNxqLG9v/c8860789c07e038933334172daecc003.jpg)](https://postimg.cc/nMg6pB04)
 
 <h3 align="center">  </h3>
