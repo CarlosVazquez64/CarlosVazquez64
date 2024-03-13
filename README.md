@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center"> 
+<img src="image.png">
 
-<!--
-**CarlosVazquez64/CarlosVazquez64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="![Supreme](https://github.com/CarlosVazquez64/CarlosVazquez64/assets/140451963/1631d249-1c46-4829-a257-1aec63697a2f)"> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">  </h3>
+<p align="center"> "" </p>
+<p align="center">  </p>
+
+
+
+
+
+
+
+
+<h4 align="center"> ✞ Tech Stack - Equipment ✞ </h4>
+<p align="center">
+  <a href="https://skillicons.dev%22%3E/
+    <img src="https://skillicons.dev/icons?i=discord,unity,godot&perline=14" />
+
+  </a>
+</p>
+</div>
