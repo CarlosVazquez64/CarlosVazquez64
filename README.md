@@ -1,6 +1,6 @@
 <div align="center"> 
   
-[![Run-1.png](https://i.postimg.cc/gJjdYRhn/Run-1.png)](https://postimg.cc/JyfSxsPL)
+
 
   
 [![c8860789c07e038933334172daecc003-1.jpg](https://i.postimg.cc/ZKtkQXw9/c8860789c07e038933334172daecc003-1.jpg)](https://postimg.cc/fkKgtqnZ)
