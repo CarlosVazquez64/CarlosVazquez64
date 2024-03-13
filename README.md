@@ -2,8 +2,8 @@
   
 [![Oz.png](https://i.postimg.cc/13C4DpQr/Oz.png)](https://postimg.cc/HrMpg8jr)
 
-  
-[![Fire.png](https://i.postimg.cc/sf8DwVQ5/Fire.png)](https://postimg.cc/rz1kp29p)
+[![End.png](https://i.postimg.cc/FR6dy0XL/End.png)](https://postimg.cc/bDQw8DJy)
+
 
 
 <h3 align="center">  </h3>
