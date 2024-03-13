@@ -1,6 +1,6 @@
 <div align="center"> 
 
-[![sukuna.jpg](https://i.postimg.cc/dQhPR7Mj/sukuna.jpg)](https://postimg.cc/CdpQSxxR)
+
 
 
 
