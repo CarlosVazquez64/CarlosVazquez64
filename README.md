@@ -18,8 +18,8 @@
 
 <h4 align="center"> ✞ Tech Stack - Equipment ✞ </h4>
 <p align="center">
-  <a href="https://skillicons.dev%22%3E/
-    <img src="https://skillicons.dev/icons?i=discord,unity,godot&perline=14" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,godot,unity,vscode" />
 
   </a>
 </p>
