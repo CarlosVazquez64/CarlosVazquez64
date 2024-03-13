@@ -1,7 +1,6 @@
 <div align="center"> 
   
 [![Oz.png](https://i.postimg.cc/13C4DpQr/Oz.png)](https://postimg.cc/HrMpg8jr)
-
 [![End.png](https://i.postimg.cc/FR6dy0XL/End.png)](https://postimg.cc/bDQw8DJy)
 
 
