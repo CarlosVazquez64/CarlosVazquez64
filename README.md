@@ -1,20 +1,5 @@
 <div align="center"> 
 
-[![wall.jpg](https://i.postimg.cc/rmTTzDr1/wall.jpg)](https://postimg.cc/kVTzpXwG)
-
-
-
- 
-
-
-
-
-
-
-https://github.com/CarlosVazquez64/CarlosVazquez64/assets/140451963/c6593016-46e6-4940-bd0b-ebd242ce13fe
-
-
-
 
 
 
