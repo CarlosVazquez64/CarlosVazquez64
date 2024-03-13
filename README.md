@@ -1,8 +1,7 @@
 <div align="center"> 
 <img src="">
 
-<img src="![Supreme](https://github.com/CarlosVazquez64/CarlosVazquez64/assets/140451963/a0a42bed-4501-44e4-b6f4-9ed6a3005da4)
-">
+<img src="">
  
 
 
