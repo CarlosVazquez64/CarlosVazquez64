@@ -1,7 +1,8 @@
 <div align="center"> 
-<img src="image.png">
+<img src="">
 
-<img src="https://www.pinterest.com.mx/pin/104356916359762148/">
+<img src="![Supreme](https://github.com/CarlosVazquez64/CarlosVazquez64/assets/140451963/a0a42bed-4501-44e4-b6f4-9ed6a3005da4)
+">
  
 
 
