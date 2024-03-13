@@ -1,5 +1,6 @@
 <div align="center"> 
 
+![sukuna](https://github.com/CarlosVazquez64/CarlosVazquez64/assets/140451963/534f1752-47fb-4b10-9b95-7e61bf8db552)
 
 
 
