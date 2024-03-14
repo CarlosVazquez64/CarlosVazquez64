@@ -19,7 +19,7 @@
 <h4 align="center"> ✞ Tech Stack - Equipment ✞ </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,html,cs,visualstudio,discord,robloxstudio,godot,vscode,py,js,css,notion,github" />
+    <img src="https://skillicons.dev/icons?i=unity,plan9,html,css,discord,robloxstudio,godot,vscode,py,js,cs,visualstudio,notion,github" />
 
   </a>
 </p>
